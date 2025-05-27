@@ -1,0 +1,8 @@
+ANÁLISIS SÍSMICO LATINOAMÉRICA (1900-2013)
+==================================================
+MEDIA (1900-1999)        :     6.6968
+MEDIA (2000-2013)        :     6.3583
+DIFERENCIA               :     0.3386
+ESTADÍSTICO T            :    11.7994
+VALOR P                  : 3.0014e-29
+SIGNIFICATIVA? (Α=0.05)  :         SÍ

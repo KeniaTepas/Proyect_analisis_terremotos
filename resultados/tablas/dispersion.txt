@@ -1,0 +1,4 @@
+ANÁLISIS SÍSMICO LATINOAMÉRICA (1900-2013)
+==================================================
+VARIANZA MUESTRAL        :     0.2588
+DESVIACIÓN ESTÁNDAR      :     0.5087

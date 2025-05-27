@@ -1,0 +1,7 @@
+ANÁLISIS SÍSMICO LATINOAMÉRICA (1900-2013)
+==================================================
+PRIMER CUARTIL (Q1)      :     6.2000
+MEDIANA (Q2)             :     6.6000
+TERCER CUARTIL (Q3)      :     6.9000
+PERCENTIL 10 (P10)       :     6.0000
+PERCENTIL 90 (P90)       :     7.3000

@@ -1,0 +1,5 @@
+ANÁLISIS SÍSMICO LATINOAMÉRICA (1900-2013)
+==================================================
+ESTADÍSTICO (D'AGOSTINO-PEARSON):   182.9970
+VALOR P                  :     0.0000
+DISTRIBUCIÓN NORMAL? (Α=0.05):         NO
