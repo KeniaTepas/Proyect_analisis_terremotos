@@ -1,0 +1,5 @@
+ANÁLISIS SÍSMICO LATINOAMÉRICA (1900-2013)
+==================================================
+MEDIA DE MAGNITUD        :     6.6123
+MEDIANA                  :     6.6000
+MODA                     :     6.0000

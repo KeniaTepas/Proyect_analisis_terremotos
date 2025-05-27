@@ -1,0 +1,6 @@
+ANÁLISIS SÍSMICO LATINOAMÉRICA (1900-2013)
+==================================================
+MEDIA MUESTRAL           :     6.6123
+IC 95% (MEDIA)           : (6.5847, 6.6399)
+PROPORCIÓN (MAG≥7)       :     0.2412
+IC 95% (PROPORCIÓN)      : (0.2180, 0.2644)
