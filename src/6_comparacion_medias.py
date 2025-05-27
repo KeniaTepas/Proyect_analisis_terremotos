@@ -1,6 +1,8 @@
 from funciones_comunes import cargar_datos, guardar_resultado
 from scipy import stats
 
+#Inferencias sobre medias de DOS muestras comparadas. 
+# Muestras son (1900-1999) y (2000-2013)
 def comparar_medias():
     datos = cargar_datos()
     antes = datos[datos['año'] < 2000]['mag']
